@@ -76,7 +76,7 @@ class _PrecoBitcoinState extends State<PrecoBitcoin> {
                     ),
 
                     ElevatedButton(
-                      child: Text("ll"),
+                      child: Text("Dialog"),
                       style: ElevatedButton.styleFrom(
 
                         primary:  Color(0xFFF6921A),
